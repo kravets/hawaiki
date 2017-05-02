@@ -3,7 +3,10 @@ package org.hawaiki
 /**
 *   Entry point to the daemon
 */
-object Main extends App
+object Main
 {
-  println("Hello Hawaiki")
+  def main(args: Array[String]): Unit =
+  {
+    println("Hello Hawaiki")
+  }
 }
