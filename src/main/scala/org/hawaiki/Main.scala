@@ -1,3 +1,5 @@
+package org.hawaiki
+
 /**
 *   Entry point to the daemon
 */
