@@ -1,2 +1,2 @@
 # hawaiki
-Nakamoto Consensus without Blocks
+Nakamoto Consensus Without Blocks
